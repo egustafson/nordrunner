@@ -1,6 +1,6 @@
 # Makefile
 
-PY_MODULES = nordrunner.py setup.py
+PY_MODULES = nordrunner.py
 
 .PHONY: lint flake8 test all install preflight
 
